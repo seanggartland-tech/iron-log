@@ -1,0 +1,11 @@
+{
+  "name": "Iron Log",
+  "short_name": "Iron Log",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#14161A",
+  "theme_color": "#14161A",
+  "icons": [
+    { "src": "icon.png", "sizes": "512x512", "type": "image/png" }
+  ]
+}
